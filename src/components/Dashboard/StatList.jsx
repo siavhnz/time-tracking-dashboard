@@ -12,7 +12,7 @@ const StatList = ({ filterby }) => {
   }
 
   return (
-    <div className="mx-6 pt-6">
+    <div className="mx-6 pt-6 lg:mx-5 lg:grid lg:grid-cols-2 xl:grid-cols-3 lg:gap-x-8 lg:gap-y-8">
       {data.map((item, index) => {
         return (
           <StatItem
