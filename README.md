@@ -11,8 +11,6 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 - [My process](#my-process)
   - [Work time](#work-time)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -29,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./screenshot/screenshot.png)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/time-tracking-dashboard-BfPaXdD48g)
 
-- Live Site: [cloudflare](https://?.pages.dev/)
+- Live Site: [cloudflare](https://time-tracking-dashboard-4bt.pages.dev/)
 
 ## My process
 
@@ -48,16 +46,12 @@ Users should be able to:
 
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/?)
+- [My Clockify Report](https://app.clockify.me/shared/6486cc9587c43129bce826c3)
 
 ### Built with
 
 - [React](https://react.dev/)
 - [TailwindCss](https://tailwindcss.com/)
-
-### What I learned
-
-### Continued development
 
 ### Useful resources
 
